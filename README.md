@@ -4,7 +4,9 @@
 This project focuses on detecting toxic comments and discovering linguistic patterns in online text using machine learning and data mining techniques. It uses the Kaggle Toxic Comment Classification Challenge dataset to classify comments into multiple toxicity categories and uncover relationships between words and toxic behavior.
 
 ## Dataset
-Download the dataset from Kaggle: Toxic Comment Classification Challenge
+Download the dataset from Kaggle: Toxic Comment Classification Challenge.
+
+[Kaggle Dataset](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 
 Files required:
 
